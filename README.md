@@ -38,7 +38,7 @@ Facebook login is required to get the appropriate access token on assets/pages t
 To test locally, create an Ngrok server at port 5000.
 
 Copy the URL obtained from Ngrok.
-Paste this webhoohook url and token = "done" in 4th point of changing your webhook phase
+Paste this * webhoohook url * and * token = "done" * in 4th point of changing your webhook phase
 
 ## Changing Your Webhook
 To edit your webhook URL or verify token, do the following:
