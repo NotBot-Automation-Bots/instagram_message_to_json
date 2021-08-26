@@ -29,7 +29,7 @@ Facebook login is required to get the appropriate access token on assets/pages t
 
 
 
-## run this file 
+## Run this file 
 * Download this file and go to the folder bot.py resides, ecdit the file and replace the page access token with token of the page connected with the app and in the terminal run following command
  ```
  python bot.py
