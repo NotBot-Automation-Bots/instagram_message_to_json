@@ -41,7 +41,7 @@ Copy the URL obtained from Ngrok.
 Paste this **webhoohook url** and **verify token = "done"** in 4th point of changing your webhook phase
 
 ## Changing Your Webhook
-** Assuming you  have pasted the page id  and page access token of page connected with the instagram **
+**Assuming you  have pasted the page id  and page access token of page connected with the instagram**
 To edit your webhook use ngrok URL and  verify token, do the following:
 
 * In your app dashboard, click the "Add Product" button.
