@@ -38,7 +38,7 @@ Facebook login is required to get the appropriate access token on assets/pages t
 To test locally, create an Ngrok server at port 5000.
 
 Copy the URL obtained from Ngrok.
-Paste this * webhoohook url * and * verify token = "done" * in 4th point of changing your webhook phase
+Paste this **webhoohook url** and **verify token = "done"** in 4th point of changing your webhook phase
 
 ## Changing Your Webhook
 ** Assuming you  have pasted the page id  and page access token of page connected with the instagram **
@@ -48,7 +48,7 @@ To edit your webhook use ngrok URL and  verify token, do the following:
 * Add the "Webhooks" product. That will present you with an interface to edit your webhook.
 * In the Webhooks settings, click the 'Edit Subscriptions' for Instaram option button.
 
-* **Step 1** : Run ngrok(not pyngrok) and paste **https url** in webhook setup and ** verify token =done **
+* **Step 1** : Run ngrok(not pyngrok) and paste **https url** in webhook setup and **verify token =done**
 * **Step 2** : Then you'll see the subscribe part , so just subscribe the messages.
 * **Step 3** : Next go to the ngrok url you have pasted as webhook , like you normally visit a site
 * **Step 4** : On visit you"ll see the success message and the output in the terminal
