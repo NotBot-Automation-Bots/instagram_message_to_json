@@ -51,7 +51,14 @@ To edit your webhook use ngrok URL and  verify token, do the following:
 * **Step 1** : Run ngrok(not pyngrok) and paste **https url** in webhook setup and **verify token =done**
 * **Step 2** : Then you'll see the subscribe part , so just subscribe the messages.
 * **Step 3** : Next go to the ngrok url you have pasted as webhook , like you normally visit a site
-* **Step 4** : On visit you"ll see the success message and the output in the terminal
+* **Step 4** : On visit you"ll see the success message.
+<img align="center" src="https://github.com/NotBot-Automation-Bots/instagram_message_to_json/blob/main/qINFHTkrbl.gif" height="600" width="2500" />
+
+* **Step 6** : Click on subscribe button near page id and edit webhook url whenever you want .
+ 
+<img align="center" src="https://github.com/NotBot-Automation-Bots/instagram_message_to_json/blob/main/3Wfl57Ijy5.gif"  height="600" width="2500" />
+
+* **Step 7** : Check the terminal you'll see the output.
 
 
 
